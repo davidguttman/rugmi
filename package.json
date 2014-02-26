@@ -1,0 +1,29 @@
+{
+  "name": "rugmi",
+  "version": "0.0.0",
+  "description": "rugmi =====",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "rugmi": "bin/rugmi"
+  },
+  "author": "David Guttman",
+  "license": "MIT",
+  "dependencies": {
+    "imgur-upload": "^0.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidguttman/rugmi.git"
+  },
+  "keywords": [
+    "imgur",
+    "cli",
+    "upload"
+  ],
+  "bugs": {
+    "url": "https://github.com/davidguttman/rugmi/issues"
+  },
+  "homepage": "https://github.com/davidguttman/rugmi"
+}
